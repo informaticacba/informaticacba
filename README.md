@@ -8,7 +8,6 @@ Soy el creador del Sitio informaticaCordoba (http://www.facebook.com/m.informati
 ![ Mis estadísticas de GitHub ](https://github-readme-stats.vercel.app/api?username=informaticacba&show_icons=true&count_private=true&hide_title=true)
 ---
 
-<!--
 **informaticacba/informaticacba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
