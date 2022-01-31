@@ -27,11 +27,11 @@ Soy el creador del Sitio informatica 2K/Cordoba (http://www.facebook.com/m.infor
 ---
 
 ### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=informaticacba&theme=react&layout=compact&hide=HTML)
+![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=informaticacba&theme=react&layout=compact)
 
 ### Interests
 
-<a href="https://www.php.net"><img src="https://www.php.net" height="20%" width="20%"></a>
+<a href="https://www.php.net"><img src="https://www.php.net/images/php8/logo_php8_1.svg" height="20%" width="20%"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://es.wikipedia.org/wiki/Bash" target="_blank"> <img src="https://i.postimg.cc/KYYRkqtV/Terminalicon2.png" alt="react" width="40" height="40"/> </a> </p>
