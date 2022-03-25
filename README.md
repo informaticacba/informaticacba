@@ -1,5 +1,5 @@
 ### Hi there 👋
-@@ -1,18 +1,18 @@
+
 ¡Hola!
 Soy [Alejandro Jesus del Campillo Jaime](https://www.facebook.com/alejandrojesusjaime). 
 Soy #Desarrollador de #Software/Web/Sistema utilizando (#Dreamweaver, #VisualStudio/Code, #IDE, #Framework, #FrontEnd, #BackEnd)
@@ -13,7 +13,11 @@ Lenguaje de #Programación:
 - VB/VB.NET
 - Python
 - PHP 5/6/7/8
+    . MVC
+    . Framework: CodeIgniter, Laravel, Symfony, PHPUnit, Yii, Doctrine, Phalcon
+    . CMS: CakePHP, PHPNuke, WordPress
 - Java /Script
+    . Framework JS: Angular, Atom, React, Vue, BackBone, Next, Webpack, Node
 - Android
 3) Nivel Medio Desarrollador
 - Clase/POO/UML/SDK/SDL
