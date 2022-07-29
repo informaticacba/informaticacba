@@ -4,11 +4,11 @@
 Soy [Alejandro Jesus del Campillo Jaime](https://www.facebook.com/alejandrojesusjaime). 
 Soy #Desarrollador de #Software/Web/Sistema utilizando (#Dreamweaver, #VisualStudio/Code, #IDE, #Framework, #FrontEnd, #BackEnd)
 Lenguaje de #Programación:
-1) Nivel Basico Desarrollador Web #FrontEnd (MVC: Modelo-Vista-Controlador)
+1) Nivel Avanzado Desarrollador Web #FrontEnd (MVC: Modelo-Vista-Controlador)
 - HTML5 (Sitio Web)
 - CSS (Estilos)
 - JS (Codigo)
-2) Nivel Basico #BackEnd Desarrollador (POO: Programacion-Orientada-Objetos) (UML: Unidad Modelo Lineal)
+2) Nivel Avanzado #BackEnd Desarrollador (POO: Programacion-Orientada-Objetos) (UML: Unidad Modelo Lineal)
 - C/C++/C.NET
 - VB/VB.NET
 - Python
@@ -21,9 +21,12 @@ Lenguaje de #Programación:
 - Android
 3) Nivel Medio Desarrollador
 - Clase/POO/UML/SDK/SDL
-4) Nivel Avanzado Desarrollador
+4) Nivel Basico Desarrollador
 - Unity
-- 
+- UnReal
+- Android Studio
+- Visual Studio
+
 Soy el creador del Sitio informatica 2K/Cordoba (http://www.facebook.com/m.informatica2k.com.ar), así como de muchas otras #Bibliotecas y 
 #Herramientas---
 ####  📈 Mis estadísticas de GitHub
