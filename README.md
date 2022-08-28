@@ -32,6 +32,9 @@ Soy el creador del Sitio informatica 2K/Cordoba (http://www.facebook.com/m.infor
 ####  📈 Mis estadísticas de GitHub
 ![ Mis estadísticas de GitHub ](https://github-readme-stats.vercel.app/api?username=informaticacba&show_icons=true&count_private=false&hide_title=false)
 ---
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=informaticacba&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=informaticacba&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=informaticacba&theme=2077)
 
 ### Most used languages
 ![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=informaticacba&theme=react&layout=compact)
