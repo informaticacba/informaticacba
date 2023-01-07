@@ -12,6 +12,15 @@ Lenguaje de #Programación:
 - C/C++/C.NET
 - VB/VB.NET
 - Python
+    .OpenCV
+    .Tkinder
+    .Tensorflow
+    .Keras
+    .Scikit
+    .Yolov5/6/7/8/9
+    .Anaconda
+    .Jupiter
+    .NoteBook
 - PHP 5/6/7/8
     . MVC
     . Framework: CodeIgniter, Laravel, Symfony, PHPUnit, Yii, Doctrine, Phalcon
