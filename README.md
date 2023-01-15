@@ -67,3 +67,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Tutoriales:
+    Omes (GabySol)      |    https://www.youtube.com/@omes-va
+    Aprende e Ingenia   |    https://www.youtube.com/@aprende-e-ingenia
+    Ringa Tech          |    https://www.youtube.com/@RingaTech
+    Dot CSV             |    https://www.youtube.com/@DotCSV
+    Migma               |    https://www.youtube.com/@xMigma
+    Santi Fiorino       |    https://www.youtube.com/@santifiorino
+    Nate Gentile        |    https://www.youtube.com/@NateGentile7
+    Savitar             |    https://www.youtube.com/@s4vitar
+    Synthesia           |    https://www.youtube.com/@synthesia-io
