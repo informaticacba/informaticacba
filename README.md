@@ -46,7 +46,10 @@ Soy el creador del Sitio informatica 2K/Cordoba (http://www.facebook.com/m.infor
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=informaticacba&theme=2077)
 
 ### Most used languages
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=informaticacba&theme=react&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=informaticacba&theme=react&layout=compact)
+
+## 🏆 Github Profile Trophies
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=informaticacba" alt="Profile Informaticacba" width="80%"/></a></p>
 
 ### Interests
 
