@@ -49,7 +49,7 @@ Soy el creador del Sitio informatica 2K/Cordoba (http://www.facebook.com/m.infor
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=informaticacba&theme=react&layout=compact)
 
 ## 🏆 Github Profile Trophies
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=informaticacba" alt="Profile Informaticacba" width="80%"/></a></p>
+<p align="center"><a href="https://github.com/informaticacba/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=informaticacba" alt="Profile Informaticacba" width="80%"/></a></p>
 
 ### Interests
 
