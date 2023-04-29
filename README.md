@@ -35,6 +35,12 @@ Lenguaje de #Programación:
 - UnReal
 - Android Studio
 - Visual Studio
+5) Inteligencia Artificial
+- Assistent Virtual
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- CNN 
 
 Soy el creador del Sitio informatica 2K/Cordoba (http://www.facebook.com/m.informatica2k.com.ar), así como de muchas otras #Bibliotecas y 
 #Herramientas---
