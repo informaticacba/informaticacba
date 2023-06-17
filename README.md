@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...- 😄 Pronombres: ...
 - ⚡ Fun fact: ...- ⚡ Dato curioso: ...
 
-Tutoriales:
+Tutoriales: <br>
     Omes (GabySol)      |    https://www.youtube.com/@omes-va   <br>
     Aprende e Ingenia   |    https://www.youtube.com/@aprende-e-ingenia   <br>
     Ringa Tech          |    https://www.youtube.com/@RingaTech     <br>
@@ -95,3 +95,12 @@ Tutoriales:
     Nate Gentile        |    https://www.youtube.com/@NateGentile7    <br>
     Savitar             |    https://www.youtube.com/@s4vitar     <br>
     Synthesia           |    https://www.youtube.com/@synthesia-io    <br>
+
+<br><bre>
+Inteligencia Artificial: <br>
+   TensorFlow http://www.tensorflow.org <br>
+   OpenCV http://www.opencv.org <br>
+   OpenAI  http://chat.openai.com <br>
+   Ultralytics-->Yolov5  http://www.ultralytics.com/yolov5 <br>
+   Ultralytics-->Yolov8  http://www.ultralytics.com/yolov8 <br>
+   Roboflow  http://www.roboflow.com/yolov5 <br>
