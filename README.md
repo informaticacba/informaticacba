@@ -116,15 +116,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...- ⚡ Dato curioso: ...
 
 Tutoriales: <br>
-    Omes (GabySol)      |    https://www.youtube.com/@omes-va   <br>
-    Aprende e Ingenia   |    https://www.youtube.com/@aprende-e-ingenia   <br>
-    Ringa Tech          |    https://www.youtube.com/@RingaTech     <br>
-    Dot CSV             |    https://www.youtube.com/@DotCSV     <br>
-    Migma               |    https://www.youtube.com/@xMigma     <br>
-    Santi Fiorino       |    https://www.youtube.com/@santifiorino    <br>
-    Nate Gentile        |    https://www.youtube.com/@NateGentile7    <br>
-    Savitar             |    https://www.youtube.com/@s4vitar     <br>
-    Synthesia           |    https://www.youtube.com/@synthesia-io    <br>
+    Omes (GabySol)      |    <a href="https://www.youtube.com/@omes-va">https://www.youtube.com/@omes-va</a>   <br>
+    Aprende e Ingenia   |    <a href="https://www.youtube.com/@aprende-e-ingenia">https://www.youtube.com/@aprende-e-ingenia</a>   <br>
+    Ringa Tech          |    <a href="https://www.youtube.com/@RingaTech">https://www.youtube.com/@RingaTech</a>     <br>
+    Dot CSV             |    <a href="https://www.youtube.com/@DotCSV">https://www.youtube.com/@DotCSV</a>     <br>
+    Migma               |    <a href="https://www.youtube.com/@xMigma">https://www.youtube.com/@xMigma</a>     <br>
+    Santi Fiorino       |    <a href="https://www.youtube.com/@santifiorino">https://www.youtube.com/@santifiorino</a>    <br>
+    Nate Gentile        |    <a href="https://www.youtube.com/@NateGentile7">https://www.youtube.com/@NateGentile7</a>    <br>
+    Savitar             |    <a href="https://www.youtube.com/@s4vitar">https://www.youtube.com/@s4vitar</a>     <br>
+    Synthesia           |    <a href="https://www.youtube.com/@synthesia-io">https://www.youtube.com/@synthesia-io</a>    <br>
 
 <br><bre>
 Inteligencia Artificial: <br>
